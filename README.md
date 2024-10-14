@@ -16,4 +16,6 @@ A curated list of German-Chinese organizations and companies offering cross-bord
 
 ## German companies offering services in China
 
+- [Weber.Cloud China](https://www.webercloud-china.de)
+
 ## Chinese companoes offering services in Germany
